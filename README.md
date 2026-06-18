@@ -211,7 +211,7 @@ In addition to the methods above for removing individual components, you can com
 	</tr>
 		<td colspan="7">
 		<strong>Biography:</strong><br>
-		When asked about her past, Zaiya tells you that she born in the vicinity of Medina al Afyal in the land of Zakhara, south east of Faerûn. Leaving her parents home, she became servant to a powerful elemental mage, specializing in poisons. She spent most of her youth with him and was soon attracted to a new form of magic: wild magic. She started secretly studying it from the mage's book collection, although he prohibited such learning. During one of her reading, she contracted her affliction and despite numerous attempts never truly found a cure. She will no say more.</td>
+		When asked about her past, Zaiya tells you that she born in the vicinity of Medina al Afyal in the land of Zakhara, south east of FaerÃ»n. Leaving her parents home, she became servant to a powerful elemental mage, specializing in poisons. She spent most of her youth with him and was soon attracted to a new form of magic: wild magic. She started secretly studying it from the mage's book collection, although he prohibited such learning. During one of her reading, she contracted her affliction and despite numerous attempts never truly found a cure. She will no say more.</td>
 	</tr>
 	<tr>
 		<td><div align="center"><img src="kiara-zaiya/readme/images/kiaram.jpg" title="Kiara"><br>Kiara</div></td>
@@ -225,7 +225,7 @@ In addition to the methods above for removing individual components, you can com
 	<tr>
 		<td colspan="7">
 		<strong>Biography:</strong><br>
-		When asked about her past, Kiara tells you that she was born in the Kara Turian land of Koryo, far east of Faerûn. After the tragic death of her parents, she was rescued by a local monastery and although extremely rare for a girl, raised as a monk. She spent most of her youth there and learnt some basic fighting skills, herbal preparations and meditation. For an obscure reason, although from the tear in her eye you guess a tragic event, she was expelled from the monastery at an early age. She traveled to the west and met some merchants along the road which she escorted first to Tu Lung before embarking aboard a ship to the city of Medina al Afyal. This is an adventure she highly speaks of with an enthusiastic tone in her voice. On arrival at Afyal, she mentions she met Zaiya before being abducted by corsairs and sold as slaves in Athkatla. You see her face darken under her monk's hood; you know she will say no more.</td>
+		When asked about her past, Kiara tells you that she was born in the Kara Turian land of Koryo, far east of FaerÃ»n. After the tragic death of her parents, she was rescued by a local monastery and although extremely rare for a girl, raised as a monk. She spent most of her youth there and learnt some basic fighting skills, herbal preparations and meditation. For an obscure reason, although from the tear in her eye you guess a tragic event, she was expelled from the monastery at an early age. She traveled to the west and met some merchants along the road which she escorted first to Tu Lung before embarking aboard a ship to the city of Medina al Afyal. This is an adventure she highly speaks of with an enthusiastic tone in her voice. On arrival at Afyal, she mentions she met Zaiya before being abducted by corsairs and sold as slaves in Athkatla. You see her face darken under her monk's hood; you know she will say no more.</td>
 	</tr>
 </table>
 
@@ -392,7 +392,7 @@ A: Yes. Though, she will be extremely hard to get. Only those who search Amn tho
 
 Editing, proofreading, ideas, website construction, portrait editing (including sending his own for Amaralis), voicing (well Amaralis again), testing..: I can't thank you enough for helping me out on this MOD. What can I say?
 
-- <a href="http://www.spellholdstudios.net/">Spellhold Studios</a> team for hosting the mod (<a href="http://www.shsforums.net">Forums</a>).
+- <a href="https://www.shsforums.net/">Spellhold Studios</a> team for hosting the mod.
 - <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a> team ('*The Copper Coronet*') for having hosted the mod (<a href="https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24005-mods-traduits-personnage-non-joueur-kiara-zaiya-v1-62-a.html">thread</a>) when it was not actively maintained.
 - Deprecated link: <a href="http://forums.fwstudios.net/">FWS</a> for hosting this project when the mod was at the early development stage. I never quite found the time to thank the webmaster! Thanks Neil Sharp for first opening the forum.
 - Mod's romance and plot improvement: Seifer and Jesara. I can't stress how important their help has been in improving both the romance but also the general plot. It led to the complete rewriting of 10 love talks, revisiting the entire romance (including some partial rewriting and merging) and the creation of 8 new dialogs with the PC whether in romance or not.
