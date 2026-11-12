@@ -55,6 +55,11 @@ LANGUAGE ~Russian (Gingerrr & aerie.ru. Updated by Prowler)~
          ~weidu_external/lang/kiara-zaiya/russian/kzsetup.tra~
          ~weidu_external/lang/kiara-zaiya/russian/dialogs.tra~
 
+LANGUAGE ~Schinese~
+         ~schinese~
+         ~kiara-zaiya/lang/schinese/kzsetup.tra~
+         ~weidu_external/lang/kiara-zaiya/schinese/kzsetup.tra~
+         ~weidu_external/lang/kiara-zaiya/schinese/dialogs.tra~
 
 /* ========================================== *
  *    Kiara-Zaiya for BG2 (main component)    *
